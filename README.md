@@ -12,9 +12,8 @@ familiarity with Python and HTML is helpful but not required.
 ## Class outline
 
 1. 🐍 [Python basics](session/01-python-basics.ipynb)
-2. 🌐 [Working with web content](session/02-working-with-web-content.ipynb)
-3. 🔢 [Writing tabular data](session/03-writing-tabular-data.ipynb)
-4. 🛠 [Putting it all together](session/04-putting-it-all-together.ipynb)
+2. 🌐 [HTML basics](session/02-html-basics.ipynb)
+3. 🛠 [Scraping the web](session/03-scraping-the-web.ipynb)
 
 ## You will learn...
 
