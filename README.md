@@ -36,7 +36,7 @@ Looking to expand on what you've done in this workshop? Here are some new advent
 
 - [Install Python on your own machine and learn how to manage Python dependencies](https://docs.google.com/document/d/1cYmpfZEZ8r-09Q6Go917cKVcQk_d0P61gm0q8DAdIdg/edit?usp=sharing)
 - Learn how to run your scripts from the command line
-  - 💡 Check out [First web scraper tutorial](https://first-web-scraper.readthedocs.io/en/latest/) to review the scraping concepts covered in this class *and* learn the basics of the command line
+  - 💡 Check out [this tutorial)](https://first-web-scraper.readthedocs.io/en/latest/) to review the scraping concepts covered in this class *and* learn the basics of the command line
 - Keep writing simple scrapers!
   - 💡 For inspiration, check out [City Scrapers](https://github.com/City-Bureau/city-scrapers),
   a collection of scrapers that gathering information on public meetings,
